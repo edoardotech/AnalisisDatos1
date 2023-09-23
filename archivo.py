@@ -26,3 +26,7 @@ print(sys.maxsize)  # Límite máximo para los enteros
 print(sys.float_info)  # Límites para los números de punto flotante
 
 Esto te dará información específica sobre los límites en tu sistema."""
+
+# suma de los primeros n números pares
+n = 100
+print(n*(n+1)/2)
