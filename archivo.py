@@ -9,3 +9,5 @@ print(type(estatura))
 
 mayor_edad = 18
 print(años >= mayor_edad)
+
+print(nombre + " tiene " + str(años) + " y mide "+ str(estatura))
